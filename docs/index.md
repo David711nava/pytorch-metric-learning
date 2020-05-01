@@ -6,7 +6,7 @@ See [this notebook](https://colab.research.google.com/drive/1fwTC-GRW3X6QiJq6_ab
 ## Installation
 **Pip**:
 ```
-pip install pytorch-metric-learning
+pip install pytorch-metric-learning 
 ```
 
 **To get the latest dev version**:
